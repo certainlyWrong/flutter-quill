@@ -43,7 +43,7 @@ dependencies:
     sdk: flutter
 
   # Normal packages
-  intl: ^0.18.1
+  intl: ^0.19.0
   dart_quill_delta: ^9.3.3
   collection: ^1.17.0
   quiver: ^3.2.1
@@ -53,8 +53,8 @@ dependencies:
 
   flutter_colorpicker:
     git:
-      url: https://github.com/certainlyWrong/flutter-quill.git
-      tag: 1.0.4
+      url: https://github.com/certainlyWrong/flutter_colorpicker.git
+      tag: v1.0.4
 
   # For converting HTML to Quill delta
   markdown: ^7.2.1
